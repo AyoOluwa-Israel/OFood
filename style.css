@@ -76,10 +76,11 @@ button{
   font-size: 1rem;
   border: none;
   background: #f5cd03;
-  color: #0c0d0d;
+  color: #ffffff;
   cursor: pointer;
   border-radius: 50px;
   outline: none;
+  font-size: large;
 ]
 }
 .image{
